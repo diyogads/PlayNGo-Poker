@@ -1,0 +1,9 @@
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\bin\Debug\Poker.Console.exe.config
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\bin\Debug\Poker.Console.exe
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\bin\Debug\Poker.Console.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\bin\Debug\Poker.Library.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\bin\Debug\Poker.Library.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\obj\Debug\Poker.Console.csprojAssemblyReference.cache
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\obj\Debug\Poker.Console.csproj.CopyComplete
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\obj\Debug\Poker.Console.exe
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Console\obj\Debug\Poker.Console.pdb

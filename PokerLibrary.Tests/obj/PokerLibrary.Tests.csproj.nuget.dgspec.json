@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Projects\\PlayNGo Poker\\Solution\\PlayNGo.Poker\\PokerLibrary.Tests\\PokerLibrary.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Projects\\PlayNGo Poker\\Solution\\PlayNGo.Poker\\PokerLibrary.Tests\\PokerLibrary.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\PlayNGo Poker\\Solution\\PlayNGo.Poker\\PokerLibrary.Tests\\PokerLibrary.Tests.csproj",
+        "projectName": "PokerLibrary.Tests",
+        "projectPath": "D:\\Programming\\Projects\\PlayNGo Poker\\Solution\\PlayNGo.Poker\\PokerLibrary.Tests\\PokerLibrary.Tests.csproj",
+        "packagesPath": "C:\\Users\\Deo\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\PlayNGo Poker\\Solution\\PlayNGo.Poker\\PokerLibrary.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Deo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

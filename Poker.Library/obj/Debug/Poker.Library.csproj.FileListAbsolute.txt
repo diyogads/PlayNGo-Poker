@@ -1,0 +1,5 @@
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Library\bin\Debug\Poker.Library.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Library\bin\Debug\Poker.Library.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Library\obj\Debug\Poker.Library.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Library\obj\Debug\Poker.Library.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\Poker.Library\obj\Debug\Poker.Library.csprojAssemblyReference.cache

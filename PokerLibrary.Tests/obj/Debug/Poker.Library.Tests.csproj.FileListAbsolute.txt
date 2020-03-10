@@ -1,0 +1,16 @@
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.abstractions.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\PokerLibrary.Tests.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\PokerLibrary.Tests.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.assert.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.core.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\Poker.Library.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\bin\Debug\Poker.Library.pdb
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\obj\Debug\Poker.Library.Tests.csprojAssemblyReference.cache
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\obj\Debug\Poker.Library.Tests.csproj.CopyComplete
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\obj\Debug\PokerLibrary.Tests.dll
+D:\Programming\Projects\PlayNGo Poker\Solution\PlayNGo.Poker\PokerLibrary.Tests\obj\Debug\PokerLibrary.Tests.pdb
